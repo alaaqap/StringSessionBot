@@ -21,19 +21,19 @@ By @StarkBots
     # Home Button
     home_buttons = [
         [InlineKeyboardButton ("🔥 بدء إنشاء الجلسة 🔥" ، callback_data = "إنشاء")], 
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
+        [InlineKeyboardButton(text="🏠 رجـــوع 🏠", callback_data="الصفحة الرئيسية")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+        [InlineKeyboardButton("🔥 ابدأ بتوليد الجلسة 🔥", callback_data="انشاء")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("🔥 ابدأ بتوليد الجلسة 🔥", callback_data="انشاء")],
+        [InlineKeyboardButton("✨ حالة البوت والمزيد من الروبوتات ✨", url="https://t.me/MR_X_N_3")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
+            InlineKeyboardButton("كيف تستعمل ❔", callback_data="مساعدة"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
         [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
