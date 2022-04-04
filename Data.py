@@ -28,15 +28,15 @@ By @StarkBots
         [InlineKeyboardButton("🔥 ابدأ بتوليد الجلسة 🔥", callback_data="انشاء")]
     ]
 
-    # Rest Buttons
-    buttons = [
+    # أزرار الراحة
+    أزرار  = [
         [InlineKeyboardButton("🔥 ابدأ بتوليد الجلسة 🔥", callback_data="انشاء")],
         [InlineKeyboardButton("✨ حالة البوت والمزيد من الروبوتات ✨", url="https://t.me/MR_X_N_3")],
         [
             InlineKeyboardButton("كيف تستعمل ❔", callback_data="مساعدة"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("🎪 حول 🎪", callback_data="حول")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ المزيد من الروبوتات المذهلة ♥", url="https://t.me/MR_X_N_3")],
     ]
 
     # Help Message
