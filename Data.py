@@ -4,18 +4,13 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Hey {}
+👋 ¦ مرحبـاً بـك عزيـزي {}
 
-Welcome to {}
+  📮 ¦ في بوت 📬 {}
 
-If you don't trust this bot, 
-1) stop reading this message
-2) delete this chat
 
-Still reading?
-You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
-
-By @StarkBots
+🕹 ¦ يعمـل هـذا البـوت لمساعدتـك بطريقـة سهلـه للحصـول على كـود تيرمكـس والبايروجرام تم انشـاء هـذا البـوت بواسطـة : MR_X_N_3
+ 
     """
 
     # Home Button
@@ -23,13 +18,13 @@ By @StarkBots
         [InlineKeyboardButton ("🔥 بدء إنشاء الجلسة 🔥" ، callback_data = "إنشاء")], 
         [InlineKeyboardButton(text="🏠 رجـــوع 🏠", callback_data="الصفحة الرئيسية")]
     ]
-
-    generate_button = [
+    
+        generate_button = [
         [InlineKeyboardButton("🔥 ابدأ بتوليد الجلسة 🔥", callback_data="انشاء")]
     ]
-
-    # أزرار الراحة
-    أزرار  = [
+        
+    # Rest Buttons
+    buttons  = [
         [InlineKeyboardButton("🔥 ابدأ بتوليد الجلسة 🔥", callback_data="انشاء")],
         [InlineKeyboardButton("✨ حالة البوت والمزيد من الروبوتات ✨", url="https://t.me/MR_X_N_3")],
         [
@@ -39,29 +34,31 @@ By @StarkBots
         [InlineKeyboardButton("♥ المزيد من الروبوتات المذهلة ♥", url="https://t.me/MR_X_N_3")],
     ]
 
-    # Help Message
+    # كـيف يـمكنـك اسـتخدامـي
     HELP = """
-✨ **Available Commands** ✨
+✨ **كـيف تستخـدمني** ✨
 
-/about - About The Bot
-/help - This Message
-/start - Start the Bot
-/generate - Start Generating Session
-/cancel - Cancel the process
-/restart - Cancel the process
+/about - حول البوت
+/help - لتسوي روحك كلشي متعرف
+/start - حتى تشغل البوت
+/generate - حتى تبدا بأستخراج البوت
+/cancel - لألغاء الاستخراج
+/restart - اعادة تشغيل البوت
 """
 
-    # About Message
+    # حـول
     ABOUT = """
-**About This Bot** 
+**حـول البوت . ** 
 
-A telegram bot to generate pyrogram and telethon string session by @StarkBots
+ بـوت استخـراج كـود تيرمكـس خـاص بســورس المـسـتـر 
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+قناة البوت: @MR_X_N_3
 
-Framework : [Pyrogram](docs.pyrogram.org)
+مصدر البوت : [Click Here](https://github.com/Abdulrahmman8894/StringSessionBot)
 
-Language : [Python](www.python.org)
+استخدم البوت : [Pyrogram](docs.pyrogram.org)
 
-Developer : @StarkProgrammer
+لغة البوت : [Python](www.python.org)
+
+مطور البوت : https://t.me/MR_X_N_3
     """
