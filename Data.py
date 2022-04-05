@@ -15,7 +15,7 @@ class Data:
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴛʀɪɴɢ 🔥", callback_data="generate")],
+        [InlineKeyboardButton("🔥 ⚜️¦ ابدأ استخراح الكود 🔥", callback_data="generate")],
         [InlineKeyboardButton(text="ᴋᴇᴍʙᴀʟɪ", callback_data="home")]
     ]
 
