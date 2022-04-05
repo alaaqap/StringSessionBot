@@ -67,6 +67,8 @@ Telegram bot to generate pyrogram and telethon string session.
 ## Support
 
 Channel :- [@MR_X_10](https://t.me/MR_X_10)
+
+
 Group Chat :- [@MR_X_8](https://t.me/MR_X_8)
 
 ## :)
