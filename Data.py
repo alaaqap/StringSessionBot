@@ -15,7 +15,7 @@ class Data:
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")], 
+        [InlineKeyboardButton("🔥 ابدأ بتوليد الجلسة 🔥", callback_data="generate")], 
         [InlineKeyboardButton(text="🏠 رجـــوع 🏠", callback_data="الصفحة الرئيسية")]
     ]
     
