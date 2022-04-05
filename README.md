@@ -38,7 +38,7 @@ Telegram bot to generate pyrogram and telethon string session.
    python3 generator.py
    ```
 
-## Environment Variables
+## المتطلبات 
 
 #### Mandatory Vars
 
