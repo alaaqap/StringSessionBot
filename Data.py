@@ -46,7 +46,7 @@ class Data:
 
     # About Message
     ABOUT = """
-**About This Bot** 
+**⚜️¦حـول البـوت** 
 
 𝗦𝗲𝗯𝘂𝗮𝗵 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗯𝗼𝘁 𝘂𝗻𝘁𝘂𝗸 𝗺𝗲𝗻𝗴𝗮𝗺𝗯𝗶𝗹 𝗽𝘆𝗿𝗼𝗴𝗿𝗮𝗺 𝗱𝗮𝗻 𝘁𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝘀𝘁𝗿𝗶𝗻𝗴 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 𝗯𝘆 @RzydxStringbot
 
