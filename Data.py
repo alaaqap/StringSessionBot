@@ -48,13 +48,19 @@ class Data:
     ABOUT = """
 **⚜️¦حـول البـوت** 
 
-𝗦𝗲𝗯𝘂𝗮𝗵 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗯𝗼𝘁 𝘂𝗻𝘁𝘂𝗸 𝗺𝗲𝗻𝗴𝗮𝗺𝗯𝗶𝗹 𝗽𝘆𝗿𝗼𝗴𝗿𝗮𝗺 𝗱𝗮𝗻 𝘁𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝘀𝘁𝗿𝗶𝗻𝗴 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 𝗯𝘆 @RzydxStringbot
+- بـوت استخـراج كـود تيرمكـس خـاص بســورس دارك 
 
-𝗚𝗿𝗼𝘂𝗽 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 : [ɢᴀʙᴜɴɢ](https://t.me/Rzydx_Support)
+- قنـاة السـورس : @DARK_EGYPT
 
-𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 : [Pyrogram](docs.pyrogram.org)
+حروب السورس : [DARK](https://t.me/DARK_MUSIC1_BOT)
 
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 : [Python](www.python.org)
+استخدم البوت : 
 
-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : [Rzydx](https://t.me/Ngapain_Ngetag)
+»[Pyrogram](docs.pyrogram.org)
+🕹
+»[Python](www.python.org)
+
+لغة البوت : [بايثون](www.python.org)
+
+⚜️¦ المطور  : [𝖆𝖇𝖉𝖚𝖑𝖗𝖆𝖍𝖒𝖒𝖆𝖓](https://t.me/MR_X_N)
     """
