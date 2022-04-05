@@ -15,33 +15,33 @@ class Data:
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 ⚜️¦ ابدأ استخراح الكود 🔥", callback_data="generate")],
-        [InlineKeyboardButton(text="ᴋᴇᴍʙᴀʟɪ", callback_data="home")]
+        [InlineKeyboardButton("🔥 ⚜️¦ بدأ استخراج الكود 🔥", callback_data="generate")],
+        [InlineKeyboardButton(text="⚜️¦ رجــوع", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴛʀɪɴɢ 🔥", callback_data="generate")]
+        [InlineKeyboardButton("🔥 ⚜️¦ بدأ استخراج الكود 🔥", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴛʀɪɴɢ 🔥", callback_data="generate")],
+        [InlineKeyboardButton("🔥 ⚜️¦ بدأ استخراج الكود 🔥", callback_data="generate")],
         [
-            InlineKeyboardButton("ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help"),
-            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
+            InlineKeyboardButton("¦📬 كيف تستخدمني", callback_data="help"),
+            InlineKeyboardButton("⚜️ ¦ حــول", callback_data="about")
         ]
     ]
 
     # Help Message
     HELP = """
-✨ **Available Commands** ✨
+✨ **📬 ¦ كـيف تستخـدمني** ✨
 
-× /about - 𝗧𝗲𝗻𝘁𝗮𝗻𝗴 𝗕𝗼𝘁 𝗶𝗻𝗶
-× /help - 𝗧𝗵𝗶𝘀 𝗠𝗲𝘀𝘀𝗮𝗴𝗲
-× /start - 𝗠𝘂𝗹𝗮𝗶 𝗕𝗼𝘁
-× /generate - 𝗠𝘂𝗹𝗮𝗶 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝘁𝗿𝗶𝗻𝗴
-× /cancel - 𝗠𝗲𝗺𝗯𝗮𝘁𝗮𝗹𝗸𝗮𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀
-× /restart - 𝗠𝗲𝗺𝗯𝗮𝘁𝗮𝗹𝗸𝗮𝗻 𝗽𝗿𝗼𝗰𝗲𝘀𝘀
+× /about - حول البوت
+× /help - لتسوي روحك كلشي متعرف
+× /start - حتى تشغل البوت
+× /generate - حتى تبدا بأستخراج البوت
+× /cancel - لألغاء الاستخراج
+× /restart - اعادة تشغيل البوت
 """
 
     # About Message
